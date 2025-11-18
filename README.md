@@ -21,4 +21,4 @@ To explore the Hands-on UI/UX Experiments.
 
 ## Result:
 
-The aim is completed and verified.
+The Hands-on UI/UX Experiments is explored.
